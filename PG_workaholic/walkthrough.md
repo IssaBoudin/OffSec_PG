@@ -41,7 +41,7 @@ python work2.py
 ![workaholic_7](../images/workaholic_7.png)  
 ![workaholic_8](../images/workaholic_8.png)
 
-#### Row Values from Table & Column (Grabbing Hashes)
+#### Row Values from Table & Column (Grabbing Users & Hashes)
 ![workaholic_9](../images/workaholic_9.png)  
 ![workaholic_10](../images/workaholic_10.png)  
 ![workaholic_11](../images/workaholic_11.png)  
